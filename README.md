@@ -1,5 +1,7 @@
 # Frontend Mentor - Componente de Resumo de Resultados
 
+![image](https://github.com/UdielOliveira/Componente-de-Sumario--Front-End/assets/113556350/332997eb-3f2d-4a03-8443-acb129822969)
+
 Esta é uma solução para o desafio [Componente de Resumo de Resultados no Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas.
 
 ## Tabela de conteúdos
