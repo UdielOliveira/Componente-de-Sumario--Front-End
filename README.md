@@ -46,13 +46,13 @@ Os usuários devem ser capazes de:
 Neste desafio, pude aprimorar ainda mais o meu conhecimento sobre o uso do CSS e do HTML, especialmente em relação ao poder do Flexbox e do Grid. Além disso, desenvolvi habilidades na disposição dos elementos na tela, tornando o layout mais visualmente bonito além de ter um codigo bonito também.
 
 ## Autor
-
-- GitHub - 
-<a href="#">
+<center>
+<a href="https://github.com/UdielOliveira">
      <img src="https://avatars.githubusercontent.com/u/113556350?v=4" width="100px;" alt="foto do Avatar de UdielOliveira"/><br>
-   <sub>
-     [UdielOliveira](https://www.your-site.com)
-  </sub>
- </a>
- 
+  </a>
+  <a href="https://github.com/UdielOliveira">
+  UdielOliveira
+</a>  
+</center>
+
 - Frontend Mentor - [@FrontEndMentor](https://www.frontendmentor.io/profile/seunomedeusuário)
