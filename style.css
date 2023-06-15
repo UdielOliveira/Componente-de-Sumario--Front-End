@@ -45,19 +45,14 @@ main
     justify-content: center;
     align-items: center;
     border-radius: 30px;
+    padding: 50px;
 }
 .item1 p
 {
     font-size: 18px;
     text-align: center;
 }
-.item2
-{
-    width: 50%;
-    background-color: gray;
-    border-radius: 30px;
 
-}
 .item1 h2
 {
     margin: 30px 0 20px 0;
@@ -81,7 +76,86 @@ main
     font-size: 70px;
     color: white;
 }
-.item1 p, span, h3
+.item1 p, span
 {
     color: rgb(161, 157, 157);
+}
+.item2
+{
+    width: 50%;
+    background-color: white;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 50px;
+}
+.titulo-sumario
+{
+    color: black;
+}
+.sumario
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.reaction, .memory, .verbal, .visual
+{
+    display: flex;
+    gap: 1rem;
+}
+.icon1, .icon2, .icon3, .icon4 
+{
+    color: black;
+}
+.reaction
+{
+    color: hsl(0, 100%, 67%);
+}
+.memory
+{
+    color: hsl(39, 100%, 56%);
+}
+.verbal
+{
+    color: hsl(166, 100%, 37%);
+}
+.visual
+{
+    color: hsl(234, 85%, 45%);
+}
+.icon4
+{
+    background-color: #F3F3FD;
+}
+.icon1
+{
+    background-color: #FFF6F5;
+}
+.icon2
+{
+    background-color: #FFFBF2;
+}
+.icon3
+{
+    background-color: #F2FBFA;
+}
+.icon1, .icon2, .icon3, .icon4 
+{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    padding: 20px 20px ;
+    border-radius: 10px;
+}
+
+.item2 button
+{
+    padding: 24px;
+    border-radius: 50px;
+    background-color: #303B59;
+    color: white;
+    text-decoration: none;
+    
 }
