@@ -47,5 +47,12 @@ Neste desafio, pude aprimorar ainda mais o meu conhecimento sobre o uso do CSS e
 
 ## Autor
 
-- GitHub - [UdielOliveira](https://www.your-site.com)
+- GitHub - 
+<a href="#">
+     <img src="https://avatars.githubusercontent.com/u/113556350?v=4" width="100px;" alt="foto do Avatar de UdielOliveira"/><br>
+   <sub>
+     [UdielOliveira](https://www.your-site.com)
+  </sub>
+ </a>
+ 
 - Frontend Mentor - [@FrontEndMentor](https://www.frontendmentor.io/profile/seunomedeusuário)
